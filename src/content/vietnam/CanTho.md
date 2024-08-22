@@ -9,7 +9,7 @@ tags:
   - Step two
 
 ---
-## Progress
+# Cantho
 
 Before moving to Can Tho our Team decreases to just one developer, me. In this time the main focus was to build the routing of the questionflow.
 
@@ -29,6 +29,12 @@ Althought I was loked in in the toilet at the first days I liked the office. On 
 - 3 meetingrooms
 - and a Tablesocer
 
+<p align="center">
+  <img src="/assets/nfq/cantho/IMG_5321.jpeg" width="350" title="hover text">
+  <img src="/assets/nfq/cantho/IMG_5323.jpeg" width="350" alt="accessibility text">
+</p>
+
+
 Like in many offices we went out on fridays and eating together and in workingtime I got a close connection to neightbours that helped me a lot. 
 In that time the team was growing again and funnily a guy of this office joint along with my old team member.
 
@@ -42,7 +48,7 @@ I also went to a mountain more far a way next to the border of Kambotscha. There
 
 #### Pictures
 
- <video width="320" height="240" autoplay muted>
-  <source src="movie.MOV" type="video/mov">
-Your browser does not support the video tag.
-</video> 
+<p align="center">
+  <img src="/assets/nfq/cantho/berg.jpeg" width="350" title="hover text">
+  <img src="/assets/nfq/cantho/buddha.jpeg" width="350" alt="accessibility text">
+</p>

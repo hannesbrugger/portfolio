@@ -9,9 +9,11 @@ tags:
   - The start
 ---
 
-## The Start
+## Saigon - The Start
 
-I started My trip in Saigon or Ho Chi Minh. I joined <a href="https://nfq.com/">NFQ</a> a internatiional company in the IT sector that provides many IT solutions to customers around the world. My pleasure was to start here in the headquater of the company. It first took a little bit of time but than I got a new project and an team partner.
+I started My trip in Saigon or Ho Chi Minh. I joined <a href="https://nfq.com/">NFQ</a> a internatiional company in the IT sector that provides many IT solutions to customers around the world. 
+At first I was introduced to the core principes of NFQ and agile development.
+My pleasure was to start here in the headquater of the company. It first took a little bit of time but than I got a new project and an team partner.
 The project includes a few new technologyes that are very interesting, we used:
 
 ### TechStack
@@ -27,8 +29,8 @@ I also got the first real contact to the Scrum concept with all it's members and
 
 ## The office
 <p align="center">
-  <img src="/assets/nfq/IMG_5177.jpeg" width="350" title="hover text">
-  <img src="/assets/nfq/IMG_5194.jpeg" width="350" alt="accessibility text">
+  <img src="/assets/nfq/saigon/IMG_5177.jpeg" width="350" title="hover text">
+  <img src="/assets/nfq/saigon/IMG_5194.jpeg" width="350" alt="accessibility text">
 </p>
 
 Like every headquater the office in Saigon looks very nice. 
@@ -39,8 +41,8 @@ For such a big office you can still feel comunity vibes origined from a shared k
 In these times many meetings slide in to our calender. Therefore the office provides many meeting rooms (named after cities NFQ has an office in) you can book. But also for the online ones you can get a quiet place in all those little boxes spread around the office like you see in the second picture.
 
 <p align="center">
-  <img src="/assets/nfq/IMG_5176.jpeg" width="350" title="hover text">
-  <img src="/assets/nfq/IMG_5184.jpeg" width="350" alt="accessibility text">
+  <img src="/assets/nfq/saigon/IMG_5176.jpeg" width="350" title="hover text">
+  <img src="/assets/nfq/saigon/IMG_5184.jpeg" width="350" alt="accessibility text">
 </p>
 
 
