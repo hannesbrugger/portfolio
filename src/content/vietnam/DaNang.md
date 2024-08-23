@@ -22,6 +22,9 @@ During this work I struggled with using git and not loosing your selfe in fixing
 I already took a look into multilanguage in bangkok but now it was time to put it in action. With i18n you can build a simple multilanguage page because it switches the content based on the current language. In Astro it is implemented through a higher folder level which represent the different languages. So you have all the code for the pages twice what doesn't follows DRY but you are very flexible to change style based on a specific language.
 So I designed and added a button to switch between languages. It is located on every page.
 
+#### Documentation
+I thought it would be good to start a documantation to give the people using the page a better understanding. Over time I wrote a text document with over 80 pages, describing all the slices and thier artibutes on prismic. Everything liked together described with images.
+
 ## Office
 The office is in the middle of the city in a litte skycraper on the highest flor. You can have a look around the hole city and during my stay there was a fireworks competition which you can see from here.
 
